@@ -1,4 +1,4 @@
-# GUVI Kanban Task Manager
+# KanbanBoard
 
 React Kanban application without Vite. This version runs using npm start.
 
@@ -16,4 +16,3 @@ npm start
 - Context API global state
 - localStorage persistence
 - TailwindCSS responsive design
-- GUVI background watermark
